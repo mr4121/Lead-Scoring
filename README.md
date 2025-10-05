@@ -1,4 +1,4 @@
-# 🎯 Lead Scoring – Logistic Regression Case Study
+# 🎯 Lead Scoring – Logistic Regression
 
 ## 📖 Overview
 
